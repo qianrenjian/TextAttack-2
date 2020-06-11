@@ -1,6 +1,7 @@
-# Probability Weighted Word Saliency(PWWS)
+# Bigram-based Hybrid Attack (BHA)
 
-This repository contains Keras implementations of the ACL2019 paper [Generating Natural Language Adversarial Examples through Probability Weighted Word Saliency](https://www.aclweb.org/anthology/P19-1103).
+This repository contains Keras implementations of the paper: Bigram-based Hybrid Attack for Crafting Natural
+Language Adversarial Samples.
 
 ## Overview
 * `data_set/aclImdb/` , `data_set/ag_news_csv/`and`data_set/yahoo_10` are placeholder directories for the IMDB Review, AG's News and Yahoo! Answer, respectively.
