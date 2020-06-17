@@ -1,6 +1,6 @@
 # Bigram-based Hybrid Attack (BHA)
 
-This repository contains Keras implementations of the paper: Bigram-based Hybrid Attack for Crafting Natural
+This repository contains Keras implementations of the paper: BHA: A Bigram-based Hybrid Attack for Crafting Natural
 Language Adversarial Samples.
 
 
